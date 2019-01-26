@@ -1,0 +1,13 @@
+{
+  "name": "portfolio-keystone",
+  "version": "0.0.0",
+  "description": "Personal portfolio built on KeystoneJS",
+  "main": "keystone.js",
+  "repository": "https://github.com/mgschoen/portfolio-keystone.git",
+  "author": "Martin Schön",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "keystone": "^4.0.0"
+  }
+}
